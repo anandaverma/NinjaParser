@@ -1,4 +1,4 @@
 NinjaParser
 ===========
 
-A pure Javare-write of popular log parser engine Logstash.
+A pure Java re-write of popular log parser engine Logstash.
